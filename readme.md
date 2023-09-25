@@ -9,7 +9,7 @@ I'm some random dev who likes making cool stuff. I have cool friends like Capy, 
 ![image](https://cdn.discordapp.com/attachments/1154955405554896979/1155285885202468934/IMG_3743.png)
 
 # Languages I know
-I know:
+As of 24/09/23 these are the programming languages I know:
 - TypeScript
 - JavaScript
 - Python
